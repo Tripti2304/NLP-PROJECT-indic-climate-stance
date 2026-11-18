@@ -1,0 +1,4 @@
+model,macro_f1,accuracy,train_time_sec,f1_Against,f1_Favour,f1_None,macro_f1_bn,macro_f1_hi
+muril,0.4648,0.697,110,0.2326,0.8212,0.3407,0.3975,0.1515
+xlmr,0.5097,0.6887,128,0.2667,0.8008,0.4615,0.4136,0.5136
+ensemble,0.5136,0.697,0,0.2791,0.8077,0.454,0.4127,0.5136

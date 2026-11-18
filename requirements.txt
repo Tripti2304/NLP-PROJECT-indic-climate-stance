@@ -1,0 +1,10 @@
+torch
+transformers
+accelerate
+huggingface_hub
+scikit-learn
+pandas
+numpy
+matplotlib
+openpyxl
+pyarrow

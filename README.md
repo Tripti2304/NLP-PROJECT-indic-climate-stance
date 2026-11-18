@@ -66,11 +66,16 @@ Key findings: transformers beat TF-IDF; the ensemble is only marginally above XL
 
 ## Team contributions
 | Member | Contribution |
-|---|---|
-| [Name 1] | [e.g. Hindi dataset creation, data cleaning] |
-| [Name 2] | [e.g. EDA, baseline model] |
-| [Name 3] | [e.g. transformer fine-tuning, ensemble] |
-| [Name 4] | [e.g. evaluation, error analysis, report] |
+[Tripti Priya]-MuRIL and XLM-R fine-tuning and ensemble
+Models and results table
+[Saachi Suri]-Evaluation, error analysis, report and GitHub repository
+Error analysis, report, README
+[Vrinda]-Hindi/Hinglish dataset creation and cleaning
+hindi.csv (120 examples)
+[Shravan]-Bengali data: Dhoroni loading and label mapping
+Bengali part of the dataset
+[Piyush Dagar]-Dataset statistics, charts and TF-IDF baseline
+Statistics, class charts, baseline Macro F1 0.429
 
 ## Limitations
 - Hindi data is small and synthetic; Hindi scores are unreliable
